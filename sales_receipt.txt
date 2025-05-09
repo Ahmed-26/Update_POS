@@ -13,3 +13,4 @@
 2025-05-09 14:58:09.320808 | Pickle Mixed 500g | Qty: 1 | Unit: 190.00 | Total: 190.00
 2025-05-09 15:00:58.648106 | Apple Charger | Qty: 2 | Unit: 450.00 | Total: 900.00
 2025-05-09 15:00:58.652096 | C-type Cable | Qty: 1 | Unit: 250.00 | Total: 250.00
+2025-05-09 16:09:58.811853 | Milk 1L | Qty: 1 | Unit: 180.00 | Total: 180.00

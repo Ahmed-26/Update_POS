@@ -1,5 +1,5 @@
 ItemID|Name|Quantity|Price
-001|Milk 1L|52|180.00
+001|Milk 1L|51|180.00
 002|Bread Loaf|98|120.00
 003|Eggs 12 Pack|78|300.00
 004|Butter 250g|51|320.00

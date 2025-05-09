@@ -251,7 +251,7 @@ def main():
                 if recover_username_input == admin.data["username"]:
                     st.session_state.pwd_recovery_stage = "awaiting_answer"
                     st.session_state.recovery_username = recover_username_input
-                    st.experimental_rerun()
+                    st.rerun()
                 else:
                     st.error("Username not found.")
         elif st.session_state.pwd_recovery_stage == "awaiting_answer":
@@ -260,7 +260,7 @@ def main():
             if st.button("Submit Answer"):
                 if answer and answer.lower() == SECURITY_ANSWER:
                     st.session_state.pwd_recovery_stage = "answer_correct"
-                    st.experimental_rerun()
+                    st.rerun()
                 else:
                     st.error("Incorrect answer!")
         elif st.session_state.pwd_recovery_stage == "answer_correct":
