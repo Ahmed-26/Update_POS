@@ -1,0 +1,103 @@
+ItemID|Name|Quantity|Price
+001|Milk 1L|52|180.00
+002|Bread Loaf|98|120.00
+003|Eggs 12 Pack|78|300.00
+004|Butter 250g|51|320.00
+005|Cheddar Cheese 500g|39|750.00
+006|Cooking Oil 1L|100|590.00
+007|Sugar 1kg|99|190.00
+008|Flour 2kg|70|280.00
+009|Basmati Rice 5kg|47|1450.00
+010|Tea Bags 100 pcs|67|720.00
+011|Coffee Jar 100g|60|850.00
+012|Salt 1kg|110|70.00
+013|Black Pepper 100g|40|150.00
+014|Red Chili Powder 200g|45|190.00
+015|Turmeric Powder 200g|55|130.00
+016|Onions 1kg|80|95.00
+017|Tomatoes 1kg|90|110.00
+018|Potatoes 1kg|100|85.00
+019|Garlic 500g|60|160.00
+020|Ginger 500g|48|180.00
+021|Bananas Dozen|75|220.00
+022|Apples 1kg|60|280.00
+023|Oranges 1kg|65|250.00
+024|Grapes 1kg|45|400.00
+025|Mangoes 1kg|30|500.00
+026|Yogurt 500g|70|160.00
+027|Chicken Whole 1kg|50|580.00
+028|Beef Mince 1kg|35|1050.00
+029|Mutton 1kg|25|1600.00
+030|Frozen Paratha Pack (5pcs)|37|300.00
+031|Frozen Nuggets 1kg|43|720.00
+032|Frozen Fries 1kg|60|380.00
+033|Ketchup 500ml|77|230.00
+034|Mayonnaise 500ml|50|340.00
+035|Pickle Mixed 500g|54|190.00
+036|Corn Flakes 500g|40|390.00
+037|Choco Cereal 500g|35|450.00
+038|Biscuits Pack|100|100.00
+039|Wafers 3pcs Pack|90|90.00
+040|Cake Rusk Pack|65|180.00
+041|Fruit Juice 1L|70|250.00
+042|Soft Drink 1.5L|100|180.00
+043|Energy Drink 250ml|60|200.00
+044|Mineral Water 1.5L|120|90.00
+045|Tissue Box|100|180.00
+046|Toilet Roll 4 Pack|60|260.00
+047|Hand Wash 250ml|80|190.00
+048|Dishwash Liquid 500ml|70|230.00
+049|Laundry Detergent 1kg|50|450.00
+050|Toothpaste 150g|90|250.00
+051|Toothbrush Pack of 2|80|160.00
+052|Shampoo 400ml|59|490.00
+053|Hair Conditioner 400ml|45|460.00
+054|Soap Bar 3pcs|100|150.00
+055|Shaving Foam 200ml|40|350.00
+056|Razor Pack of 3|50|280.00
+057|Sanitary Pads 10pcs|70|320.00
+058|Baby Diapers Small Pack|60|890.00
+059|Baby Wipes 80pcs|65|380.00
+060|Face Wash 150ml|55|410.00
+061|Body Lotion 200ml|50|430.00
+062|Face Cream 100ml|45|420.00
+063|Shower Gel 300ml|50|400.00
+064|Nail Cutter|90|100.00
+065|Hair Oil 200ml|40|250.00
+066|Comb Set|67|150.00
+067|Matchbox Pack of 10|100|60.00
+068|Lighter|85|80.00
+069|Battery AA 4pcs|60|220.00
+070|Extension Cord 4-Port|40|950.00
+071|Electric Kettle 1.5L|25|3450.00
+072|Nonstick Frypan|30|2250.00
+073|Pressure Cooker 5L|20|4800.00
+074|Knife Set 3pcs|35|1600.00
+075|Plastic Containers Set|50|850.00
+076|Lunch Box|70|390.00
+077|Water Bottle 1L|90|250.00
+078|Dustbin 10L|30|750.00
+079|Room Freshener 300ml|55|290.00
+080|Mosquito Spray 400ml|40|370.00
+081|Mop Set|25|1200.00
+082|Broom|80|250.00
+083|Washing Powder 2kg|39|720.00
+084|Glass Cleaner 500ml|50|200.00
+085|Insect Killer Spray|30|580.00
+086|Notebook 200 Pages|70|130.00
+087|Ballpoint Pack of 10|90|140.00
+088|Eraser Pack of 3|80|60.00
+089|Glue Stick 15g|60|80.00
+090|Highlighter Set of 4|45|220.00
+091|Marker Set|40|260.00
+092|A4 Paper Ream|50|950.00
+093|File Folder|70|180.00
+094|Stapler Small|60|190.00
+095|Scissors|65|140.00
+096|Calculator|40|390.00
+097|Hand Sanitizer 100ml|80|160.00
+098|Face Mask Box (50pcs)|50|650.00
+099|Vitamin C Tablets|40|450.00
+100|First Aid Box|30|1150.00
+101|C-type Cable|49|250.00
+102|Apple Charger|45|450.00
