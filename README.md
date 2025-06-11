@@ -1,28 +1,40 @@
 # Point of Sale (POS) System
 
+## 📚 Contents
+- [Point of Sale (POS) System](#point-of-sale-pos-system)
+  - [📚 Contents](#-contents)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Installation](#installation)
+    - [Usage](#usage)
+    - [Code Structure](#code-structure)
+    - [File Structure](#file-structure)
+
+---
+
 ## Overview
 
 The Point of Sale (POS) System is a comprehensive application developed in Python using the Tkinter library for the graphical user interface. This system allows administrators to manage inventory, process sales, and generate receipts efficiently.
 
 ## Features
 
-- **Admin Management**: 
-  - Admin login functionality with username and password.
+- **Admin Management**:  
+  - Admin login functionality with username and password.  
   - Password recovery through security questions.
 
-- **Inventory Management**: 
-  - Add, update, delete, and view inventory items.
+- **Inventory Management**:  
+  - Add, update, delete, and view inventory items.  
   - Inventory data is stored in a text file.
 
-- **Sales Processing**: 
-  - Add items to a sale and finalize transactions.
+- **Sales Processing**:  
+  - Add items to a sale and finalize transactions.  
   - Generate and display sales receipts.
 
-- **User  Interface**: 
-  - Intuitive GUI with multiple tabs for Home, Admin Login, Inventory Management, and Sales.
+- **User Interface**:  
+  - Intuitive GUI with multiple tabs for Home, Admin Login, Inventory Management, and Sales.  
   - Responsive design with a modern look and feel.
 
-- **Receipt Generation**: 
+- **Receipt Generation**:  
   - Sales receipts can be displayed and saved in both text and image formats.
 
 ## Installation
@@ -31,6 +43,7 @@ The Point of Sale (POS) System is a comprehensive application developed in Pytho
 2. Install the required libraries:
    ```bash
    pip install pillow
+
 Clone the repository or download the code files.
 ### Usage
 1. Run the application:
