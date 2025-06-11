@@ -1,0 +1,103 @@
+ItemID,Name,Quantity,Price
+1,Milk 1L,52,180.0
+2,Bread Loaf,98,120.0
+3,Eggs 12 Pack,78,300.0
+4,Butter 250g,49,320.0
+5,Cheddar Cheese 500g,39,750.0
+6,Cooking Oil 1L,98,590.0
+7,Sugar 1kg,99,190.0
+8,Flour 2kg,70,280.0
+9,Basmati Rice 5kg,47,1450.0
+10,Tea Bags 100 pcs,67,720.0
+11,Coffee Jar 100g,68,850.0
+12,Salt 1kg,110,70.0
+13,Black Pepper 100g,40,150.0
+14,Red Chili Powder 200g,45,190.0
+15,Turmeric Powder 200g,55,130.0
+16,Onions 1kg,80,95.0
+17,Tomatoes 1kg,90,110.0
+18,Potatoes 1kg,100,85.0
+19,Garlic 500g,60,160.0
+20,Ginger 500g,48,180.0
+21,Bananas Dozen,75,220.0
+22,Apples 1kg,60,280.0
+23,Oranges 1kg,65,250.0
+24,Grapes 1kg,45,400.0
+25,Mangoes 1kg,30,500.0
+26,Yogurt 500g,70,160.0
+27,Chicken Whole 1kg,50,580.0
+28,Beef Mince 1kg,35,1050.0
+29,Mutton 1kg,25,1600.0
+30,Frozen Paratha Pack (5pcs),37,300.0
+31,Frozen Nuggets 1kg,43,720.0
+32,Frozen Fries 1kg,60,380.0
+33,Ketchup 500ml,77,230.0
+34,Mayonnaise 500ml,50,340.0
+35,Pickle Mixed 500g,54,190.0
+36,Corn Flakes 500g,40,390.0
+37,Choco Cereal 500g,35,450.0
+38,Biscuits Pack,100,100.0
+39,Wafers 3pcs Pack,90,90.0
+40,Cake Rusk Pack,65,180.0
+41,Fruit Juice 1L,70,250.0
+42,Soft Drink 1.5L,100,180.0
+43,Energy Drink 250ml,60,200.0
+44,Mineral Water 1.5L,120,90.0
+45,Tissue Box,100,180.0
+46,Toilet Roll 4 Pack,60,260.0
+47,Hand Wash 250ml,80,190.0
+48,Dishwash Liquid 500ml,70,230.0
+49,Laundry Detergent 1kg,50,450.0
+50,Toothpaste 150g,90,250.0
+51,Toothbrush Pack of 2,80,160.0
+52,Shampoo 400ml,59,490.0
+53,Hair Conditioner 400ml,45,460.0
+54,Soap Bar 3pcs,100,150.0
+55,Shaving Foam 200ml,40,350.0
+56,Razor Pack of 3,50,280.0
+57,Sanitary Pads 10pcs,70,320.0
+58,Baby Diapers Small Pack,60,890.0
+59,Baby Wipes 80pcs,65,380.0
+60,Face Wash 150ml,55,410.0
+61,Body Lotion 200ml,50,430.0
+62,Face Cream 100ml,45,420.0
+63,Shower Gel 300ml,50,400.0
+64,Nail Cutter,90,100.0
+65,Hair Oil 200ml,40,250.0
+66,Comb Set,67,150.0
+67,Matchbox Pack of 10,100,60.0
+68,Lighter,85,80.0
+69,Battery AA 4pcs,60,220.0
+70,Extension Cord 4-Port,40,950.0
+71,Electric Kettle 1.5L,25,3450.0
+72,Nonstick Frypan,30,2250.0
+73,Pressure Cooker 5L,20,4800.0
+74,Knife Set 3pcs,35,1600.0
+75,Plastic Containers Set,50,850.0
+76,Lunch Box,70,390.0
+77,Water Bottle 1L,90,250.0
+78,Dustbin 10L,30,750.0
+79,Room Freshener 300ml,55,290.0
+80,Mosquito Spray 400ml,40,370.0
+81,Mop Set,25,1200.0
+82,Broom,80,250.0
+83,Washing Powder 2kg,39,720.0
+84,Glass Cleaner 500ml,50,200.0
+85,Insect Killer Spray,30,580.0
+86,Notebook 200 Pages,70,130.0
+87,Ballpoint Pack of 10,90,140.0
+88,Eraser Pack of 3,80,60.0
+89,Glue Stick 15g,60,80.0
+90,Highlighter Set of 4,45,220.0
+91,Marker Set,40,260.0
+92,A4 Paper Ream,50,950.0
+93,File Folder,70,180.0
+94,Stapler Small,60,190.0
+95,Scissors,65,140.0
+96,Calculator,40,390.0
+97,Hand Sanitizer 100ml,80,160.0
+98,Face Mask Box (50pcs),50,650.0
+99,Vitamin C Tablets,40,450.0
+100,First Aid Box,30,1150.0
+101,C-type Cable,49,250.0
+102,Apple Charger,45,450.0
