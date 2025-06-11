@@ -15,3 +15,4 @@ Date | Item Name | Quantity Sold | Total Sales
 2025-05-09 | Apple Charger | Sold: 2 | Total: 900.00
 2025-05-09 | C-type Cable | Sold: 1 | Total: 250.00
 2025-05-09 | Milk 1L | Sold: 1 | Total: 180.00
+2025-05-09 | Butter 250g | Sold: 2 | Total: 640.00

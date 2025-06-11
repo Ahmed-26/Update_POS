@@ -2,14 +2,14 @@ ItemID|Name|Quantity|Price
 001|Milk 1L|51|180.00
 002|Bread Loaf|98|120.00
 003|Eggs 12 Pack|78|300.00
-004|Butter 250g|51|320.00
+004|Butter 250g|49|320.00
 005|Cheddar Cheese 500g|39|750.00
 006|Cooking Oil 1L|100|590.00
 007|Sugar 1kg|99|190.00
 008|Flour 2kg|70|280.00
 009|Basmati Rice 5kg|47|1450.00
 010|Tea Bags 100 pcs|67|720.00
-011|Coffee Jar 100g|60|850.00
+011|Coffee Jar 100g|68|850.00
 012|Salt 1kg|110|70.00
 013|Black Pepper 100g|40|150.00
 014|Red Chili Powder 200g|45|190.00
