@@ -9,7 +9,6 @@
   - [Installation](#installation)
     - [Usage](#usage)
     - [Code Structure](#code-structure)
-    - [File Structure](#file-structure)
 
 ---
 
@@ -74,14 +73,6 @@ Clone the repository or download the code files.
 - **ReceiptDialog Class:** Displays the sales receipt and provides options to save it.
 - **UpdateSearchDialog Class:** Facilitates searching for items to update in the inventory.
 
-### File Structure
-
-    ├── pos_system.py          # Main application file
-    ├── database.txt           # Inventory data file
-    ├── admin_data.txt         # Admin credentials file
-    ├── sales_receipt.txt      # Sales receipt log
-    ├── daily_sales.txt        # Daily sales log
-    └── logo.png               # Application logo
 
 For any inquiries or collaborations, feel free to reach out:
 
